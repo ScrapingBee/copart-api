@@ -2,9 +2,11 @@
 
 <p align="center">
   <a href="https://www.scrapingbee.com/">
-    <img src="REPLACE_WITH_SCREENSHOT_URL" alt="copart-api" />
+    <img src="https://github.com/user-attachments/assets/c09428fe-1efa-4bcd-88ec-84d49d93d4f5" alt="copart-api" />
   </a>
 </p>
+
+
 
 [![checks](https://github.com/ScrapingBee/copart-api/workflows/checks/badge.svg)](https://github.com/ScrapingBee/copart-api/actions)
 [![license](https://img.shields.io/github/license/ScrapingBee/copart-api.svg)](LICENSE)
